@@ -3,7 +3,7 @@ How to use the program: https://docs.google.com/document/d/185wcDMdNERGC0vZpbz9R
 What the program does:
 https://docs.google.com/document/d/1QdcVxrdVOV7FwuvNj9Jaxe5H7hZD7YIn/
 
-Apprenticeship portfolio report section about this program before it was removed for hitting the same KSBs as the Active Places program:
+Apprenticeship portfolio report section about this program before it was removed for hitting the same KSBs as the Active Places program section:
 https://docs.google.com/document/d/1QZfuGdcVQOoWt3Xu_5kWc_ybxshUnUdu/
 
 # Indoor-facilities-database-populator
